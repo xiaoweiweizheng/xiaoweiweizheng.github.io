@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script');
+
+body {
+  margin: 100px auto;
+  background-image: url(images/canvastexture.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Bad Script', cursive;
+  text-align: center;
+}
+
+a {
+  color: inherit;
+  text-decoration:none;
+ }
+
+ a:hover {
+   background-color: white;
+ }
